@@ -3,17 +3,17 @@
 <p align="center" >I'm a <b>Mechatronic Engineer </b> Student. I am passionate about technologies</p>
 <br>
 
-<div align = "right">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabdonsena&layout=compact" />
-	</a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabdonsena&layout=default"/> #in case it got over 4 langs pls use "compact"
+</a>
 
 ##  💻 Technologies
-<div  align = "center">
+<div align = "center">
 	<img src = "https://skillicons.dev/icons?i=cpp,c,java,docker,gitlab&perline=5">
 	<img width="48" src="https://user-images.githubusercontent.com/45674528/227717202-79b86515-e205-4ce5-ba2d-78746b4fc564.png">
+
 </div>
+
 
 ## 📪 Get in touch
 <div  align = "center">
