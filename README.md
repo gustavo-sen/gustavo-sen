@@ -9,7 +9,7 @@
 - ✨ **I like:** Exercise, animes, music, learn random things
 
 ##  💻 Technologies
-<img src = "https://skillicons.dev/icons?i=cpp,c,java,vhdl,docker &perline=5">  
+<img src = "https://skillicons.dev/icons?i=cpp,c,java,vhdl,docker,kicad,gitlab&perline=5">  
 
 ## 📪 Get in touch
 <div>
