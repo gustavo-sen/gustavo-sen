@@ -9,7 +9,7 @@
 - ✨ **I like:** Exercise, animes, music, learn random things
 
 ##  💻 Technologies
-<img src = "https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,jest,docker,express,redux,mysql,prisma,mongodb&perline=5">  
+<img src = "https://skillicons.dev/icons?i=cpp,c,java,vhdl,docker,postgreesql,mongodb&perline=5">  
 
 ## 📪 Get in touch
 <div>
@@ -19,7 +19,7 @@
 	<a href="https://www.linkedin.com/in/gustavoabdon/" alt="Linkedin">
 		<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-henryck-dev/" height="25" />
 	</a>
-	<a href="https://discordapp.com/users/571075961877954624" alt="Instagram">
+	<a href="" alt="Instagram">
 	  <img src="https://img.shields.io/badge/-discord-7289DA?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link=https://discordapp.com/users/551195055977660437" height="25" />
 	</a>
 	</div>
