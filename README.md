@@ -10,7 +10,7 @@
 
 ##  💻 Technologies
 <img src = "https://skillicons.dev/icons?i=cpp,c,java,docker,gitlab&perline=5">  
-<img width="512" alt="KiCad-1" src="https://user-images.githubusercontent.com/45674528/227693881-53ec282b-4503-46a2-8b62-f560a8fcb230.png">
+<img width="256" alt="KiCad" src="https://user-images.githubusercontent.com/45674528/227693881-53ec282b-4503-46a2-8b62-f560a8fcb230.png">
 
 ## 📪 Get in touch
 <div>
