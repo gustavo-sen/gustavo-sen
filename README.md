@@ -5,7 +5,7 @@
 
 <div align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabdonsena&hide=javascript,html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabdonsena&layout=compact" />
 </a>
 
 </div>
