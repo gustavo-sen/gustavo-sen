@@ -1,13 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Gustavo!</h1>
 
-<p align="center" >I'm a <b>Mechatronic Engineer Student</b>. I am passionate about technologies</p>
+<p align="center" >I'm a <b>Mechatronic Engineer </b> Student. I am passionate about technologies</p>
 <br>
 
 <img src="https://media3.giphy.com/media/BMu2SwuXflOlQP8jTC/giphy.gif?cid=ecf05e4763ddxqjp6a481cjg8p2fc86bdfho3plzhaa2wy3l&rid=giphy.gif&ct=g" align="right">
 
-- 🌱 **I’m currently learning**: Python
 - 💬 Ask me about anything
-- ⚡ **Fun fact:** I've played guitar for 9 years
 - ✨ **I like:** Exercise, animes, music, learn random things
 
 ##  💻 Technologies
