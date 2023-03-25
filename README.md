@@ -3,11 +3,10 @@
 <p align="center" >I'm a <b>Mechatronic Engineer </b> Student. I am passionate about technologies</p>
 <br>
 
-<div align = "center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabdonsena&layout=compact" />
-</a>
-
+<div align = "right">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabdonsena&layout=compact" />
+	</a>
 </div>
 
 ##  💻 Technologies
