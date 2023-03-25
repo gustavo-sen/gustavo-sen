@@ -3,14 +3,14 @@
 <p align="center" >I'm a <b>Mechatronic Engineer </b> Student. I am passionate about technologies</p>
 <br>
 
-<img src="https://media3.giphy.com/media/BMu2SwuXflOlQP8jTC/giphy.gif?cid=ecf05e4763ddxqjp6a481cjg8p2fc86bdfho3plzhaa2wy3l&rid=giphy.gif&ct=g" align="right">
-
 ##  💻 Technologies
-<img src = "https://skillicons.dev/icons?i=cpp,c,java,docker,gitlab&perline=5">  
-<img width="48" src="https://user-images.githubusercontent.com/45674528/227717202-79b86515-e205-4ce5-ba2d-78746b4fc564.png">
+<div  align = "center">
+	<img src = "https://skillicons.dev/icons?i=cpp,c,java,docker,gitlab&perline=5">
+	<img width="48" src="https://user-images.githubusercontent.com/45674528/227717202-79b86515-e205-4ce5-ba2d-78746b4fc564.png">
+</div>
 
 ## 📪 Get in touch
-<div>
+<div  align = "center">
 	<a href="mailto:gustavoabdon.q67a1@slmail.me" alt="Gmail">
 		<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gustavoabdon.q67a1@slmail.me" height="25" />
 	</a>
