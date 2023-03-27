@@ -2,7 +2,7 @@
 <p align="center" >I'm a <b>Mechatronic Engineer </b> Student. I am passionate about technologies</p>
 <br>
 <div>
-	<h4>Languages I speak: </h4>
+	<h3>Languages I speak: </h3>
 Portuguese :brazil:
 <br>
 English
