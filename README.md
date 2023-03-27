@@ -1,8 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Gustavo!</h1>
-
 <p align="center" >I'm a <b>Mechatronic Engineer </b> Student. I am passionate about technologies</p>
 <br>
+<div>
+	<h4>Languages I speak: </h4>
+Portuguese :brazil:
+<br>
+English
 
+
+
+</div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabdonsena&layout=default&theme=radical"/> <!--in case it got over 4 langs pls use "compact" -->
 </a>
