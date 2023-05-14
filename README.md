@@ -11,7 +11,7 @@ English
 
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabdonsena&layout=default&theme=radical"/> <!--in case it got over 4 langs pls use "compact" -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-sen&layout=default&theme=radical"/> <!--in case it got over 4 langs pls use "compact" -->
 </a>
 
 ##  💻 Technologies
