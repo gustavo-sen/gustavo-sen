@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Gustavo!</h1>
-<p align="center" >I'm a <b>Mechatronic Engineer </b> Student. I am passionate about technologies</p>
+
+<p align="center" >Hello, i'm <b>Mechatronic Engineer </b> Student, passionate about technologies</p>
 <br>
 <div>
 	<h3>Languages I speak: </h3>
 Portuguese :brazil:
 <br>
-English
+English :us:
 
 
 
