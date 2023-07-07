@@ -33,8 +33,5 @@ English :us:
 
 ## 📪 Get in touch
 <div align="center"> 
- <a href = "gustavoabdon.q67a1@slmail.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
- ![Snake animation](https://github.com/adautodf/adautodf/blob/output/github-contribution-grid-snake.svg)
- 
+ <a href = "gustavoabdon.q67a1@slmail.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
