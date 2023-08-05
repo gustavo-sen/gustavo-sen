@@ -9,7 +9,6 @@ English :us:
 <a href="https://github.com/gustavo-sen" >
   <img align="right" src="https://readme-status-wheat.vercel.app/api/top-langs/?username=gustavo-sen&theme=radical#gh-dark-mode-only"/> 
 </a>
-	github-readme-stats-9j1v-git-master-gustavo-sen.vercel.app
 
 ###  💻 Technologies
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
