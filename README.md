@@ -8,7 +8,7 @@ English :us:
 
 <div>
 <a href="https://github.com/gustavo-sen" >
-  <img align="right" src="https://github-readme-stats-olive-mu-84.vercel.app/api/top-langs/?username=gustavo-sen&theme=radical#gh-dark-mode-only"/> 
+  <img align="right" src="https://https://github-readme-stats-9j1v-mrm4ibmfq-gustavo-sen.vercel.app/api/top-langs/?username=gustavo-sen&theme=radical#gh-dark-mode-only"/> 
 </a>
 	
 ###  💻 Technologies
