@@ -1,6 +1,4 @@
 <p align="center" >I`m Gustavo, from Brazil and I`m<b>Mechatronic Engineer </b> Student, passionate about robotics, electronics and programming</p>
-<div>
-<div>
 
 ### 🗣️ Languages I Speak 
  * Portuguese 🇧🇷 (Native)
@@ -29,4 +27,3 @@ VHDL![VHDL](https://github.com/gustavo-sen/gustavo-sen/assets/45674528/e2205f5f-
 ## 📪 Get in touch
 <div align="center"> 
  <a href = "gustavoabdon.q67a1@slmail.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
