@@ -3,8 +3,8 @@
 <div>
 
 ### 🗣️ Languages I Speak 
- * Portuguese 🇧🇷
- * English 🇺🇸
+ * Portuguese 🇧🇷 (Native)
+ * English 🇺🇸 (Fluent)
 
 
 ###  💻Technologies
