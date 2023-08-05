@@ -2,7 +2,7 @@
 <div>
 <div>
 
-### Languages I Speak
+### 🗣️ Languages I Speak 
  * Portuguese 🇧🇷
  * English 🇺🇸
 
