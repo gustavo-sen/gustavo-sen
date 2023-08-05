@@ -1,16 +1,17 @@
 <p align="center" >Hello, i'm <b>Mechatronic Engineer </b> Student, passionate about technologies</p>
-<br>
 <div>
-	<h3>Languages I speak: </h3>
-Portuguese :brazil:
-<br>
-English :us:
 <div>
 
-###  💻 Technologies
+### Languages I Speak
+ * Portuguese 🇧🇷
+ * English 🇺🇸
+
+
+###  💻Technologies
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,7 +20,7 @@ VHDL![VHDL](https://github.com/gustavo-sen/gustavo-sen/assets/45674528/e2205f5f-
 
 
 
-### Learning in this moment:
+### Learning at this moment:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
