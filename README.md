@@ -1,4 +1,4 @@
-<p align="center" >Hi there, I'm <b>Mechatronic Engineer </b> Student, passionate about technologies</p>
+<p align="center" >I`m Gustavo, from Brazil and I`m<b>Mechatronic Engineer </b> Student, passionate about robotics, electronics and programming</p>
 <div>
 <div>
 
