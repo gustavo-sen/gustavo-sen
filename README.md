@@ -7,7 +7,7 @@ Portuguese :brazil:
 English :us:
 
 <div>
-<a href="https://github.com/gustavo-sen/github-readme-stats" >
+<a href="https://github.com/gustavo-sen" >
   <img align="right"  src="https://github-readme-stats-olive-mu-84.vercel.app/api/top-langs/?username=gustavo-sen&theme=radical#gh-dark-mode-only"/> 
 </a>
 	
