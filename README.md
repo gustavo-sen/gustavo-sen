@@ -5,12 +5,12 @@
 Portuguese :brazil:
 <br>
 English :us:
-
 <div>
 <a href="https://github.com/gustavo-sen" >
-  <img align="right" src="https://https://github-readme-stats-9j1v-mrm4ibmfq-gustavo-sen.vercel.app/api/top-langs/?username=gustavo-sen&theme=radical#gh-dark-mode-only"/> 
+  <img align="right" src="readme-status-git-master-gustavo-sen.vercel.app/api/top-langs/?username=gustavo-sen&theme=radical#gh-dark-mode-only"/> 
 </a>
-	
+	github-readme-stats-9j1v-git-master-gustavo-sen.vercel.app
+
 ###  💻 Technologies
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
