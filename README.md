@@ -7,7 +7,7 @@ Portuguese :brazil:
 English :us:
 <div>
 <a href="https://github.com/gustavo-sen" >
-  <img align="right" src="https://readme-status-wheat.vercel.app/api/top-langs/?username=gustavo-sen&theme=radical#gh-dark-mode-only"/> 
+  <img align="right" src="https://readme-status-wheat.vercel.app/api/langs/?username=gustavo-sen&theme=radical#gh-dark-mode-only"/> 
 </a>
 	github-readme-stats-9j1v-git-master-gustavo-sen.vercel.app
 
