@@ -6,9 +6,6 @@ Portuguese :brazil:
 <br>
 English :us:
 <div>
-<a href="https://github.com/gustavo-sen" >
-  <img align="right" src="https://readme-status-wheat.vercel.app/api/top-langs/?username=gustavo-sen&theme=radical#gh-dark-mode-only"/> 
-</a>
 
 ###  💻 Technologies
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
