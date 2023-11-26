@@ -11,7 +11,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-VHDL![VHDL](https://github.com/gustavo-sen/gustavo-sen/assets/45674528/e2205f5f-261e-4919-ad31-40699d678eeb)
+[VHDL]
+
 
 
 
