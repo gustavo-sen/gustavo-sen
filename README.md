@@ -11,7 +11,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 VHDL![VHDL](https://github.com/gustavo-sen/gustavo-sen/assets/45674528/e2205f5f-261e-4919-ad31-40699d678eeb)
 
 
@@ -19,6 +18,7 @@ VHDL![VHDL](https://github.com/gustavo-sen/gustavo-sen/assets/45674528/e2205f5f-
 ### 📖Learning at this moment:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </div>
 
 
