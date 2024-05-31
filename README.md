@@ -4,6 +4,11 @@
  * Portuguese 🇧🇷 (Native)
  * English 🇺🇸 (Fluent)
 
+<div>
+  <a href="https://beacons.ai/gustavo-sen"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-sen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-sen&layout=compact&langs_count-16&theme=dracula"/>
+</div>
 
 ###  💻 Skills & Experiences
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
